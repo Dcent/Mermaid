@@ -1,2 +1,5 @@
 /.gradle/
 /bin/
+/.DS_Store
+/build/
+/.settings/

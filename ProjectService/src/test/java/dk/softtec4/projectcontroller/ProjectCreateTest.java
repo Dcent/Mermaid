@@ -11,6 +11,7 @@ public class ProjectCreateTest {
 	public void shouldCreateAProjectObject() {
 		//setup
 		Project project = new Project();
+		
 		//action
 		
 		//assert

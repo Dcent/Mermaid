@@ -1,2 +1,10 @@
 INDEX VERSION 1.4+/Users/renemsorensen/eclipse-workspaces/Mermaid_Workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+<<<<<<< HEAD
+3122433808.index
+2422033922.index
+3018549840.index
+3279606835.index
+3818252880.index
+=======
 1355420822.index
+>>>>>>> bf6fef3766a0e0079c8f282f09a8caf0fcb88022

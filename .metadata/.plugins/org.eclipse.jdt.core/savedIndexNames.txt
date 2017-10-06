@@ -1,5 +1,10 @@
 INDEX VERSION 1.130+/Users/renemsorensen/eclipse-workspaces/Mermaid_Workspace/.metadata/.plugins/org.eclipse.jdt.core
 <<<<<<< HEAD
+3631284893.index
+1311433517.index
+1732709162.index
+=======
+<<<<<<< HEAD
 2373852386.index
 2081949117.index
 679496153.index
@@ -47,3 +52,4 @@ INDEX VERSION 1.130+/Users/renemsorensen/eclipse-workspaces/Mermaid_Workspace/.m
 3358580009.index
 576073405.index
 >>>>>>> cfb37667fe07fa1228fa3e642d1181686aaceb57
+>>>>>>> bf6fef3766a0e0079c8f282f09a8caf0fcb88022

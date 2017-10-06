@@ -1,3 +1,8 @@
 /.metadata/
 /.recommenders/
+<<<<<<< HEAD
 /RemoteSystemsTempFiles/
+=======
+/.DS_Store/
+/ProjectService/build/
+>>>>>>> f411eb918ea005aa707fce5c30262b77bbe78ba7

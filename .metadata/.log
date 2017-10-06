@@ -1573,3 +1573,9 @@ org.eclipse.core.internal.resources.ResourceException: Project 'Website' is not 
 !MESSAGE The project description file (.project) for 'Servers' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
 =======
 >>>>>>> bf6fef3766a0e0079c8f282f09a8caf0fcb88022
+
+!ENTRY org.eclipse.jface.text 2 0 2017-10-06 22:12:32.981
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-10-06 22:12:32.982
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'

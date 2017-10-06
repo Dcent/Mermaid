@@ -666,6 +666,7 @@ Binding(ALT+COMMAND+Z,
 
 !ENTRY org.eclipse.jface.text 2 0 2017-10-06 16:29:04.963
 !MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+<<<<<<< HEAD
 
 !ENTRY org.eclipse.jst.j2ee 4 0 2017-10-06 16:49:10.425
 !MESSAGE Plugin org.eclipse.jst.jee, extension org.eclipse.jst.j2ee.J2EEModelProvider
@@ -742,3 +743,5 @@ java.lang.IllegalArgumentException: Version 8.0 of project facet jst.appclient d
 	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
 	at org.eclipse.wst.common.project.facet.ui.ModifyFacetedProjectWizard$4.run(ModifyFacetedProjectWizard.java:345)
 	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+=======
+>>>>>>> cfb37667fe07fa1228fa3e642d1181686aaceb57

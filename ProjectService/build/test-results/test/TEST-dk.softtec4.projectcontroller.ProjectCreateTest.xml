@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<testsuite name="dk.softtec4.projectcontroller.ProjectCreateTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-10-06T21:20:12" hostname="ReneSrensensMBP" time="0.002">
+  <properties/>
+  <testcase name="shouldCreateAProjectObject" classname="dk.softtec4.projectcontroller.ProjectCreateTest" time="0.002"/>
+=======
 <testsuite name="dk.softtec4.projectcontroller.ProjectCreateTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2017-10-06T20:55:10" hostname="ReneSrensensMBP" time="0.002">
   <properties/>
   <testcase name="test" classname="dk.softtec4.projectcontroller.ProjectCreateTest" time="0.002">
@@ -52,6 +57,7 @@
 	at java.lang.Thread.run(Thread.java:745)
 </failure>
   </testcase>
+>>>>>>> f411eb918ea005aa707fce5c30262b77bbe78ba7
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

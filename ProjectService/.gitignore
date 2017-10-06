@@ -1,6 +1,11 @@
 /.gradle/
 /bin/
+<<<<<<< HEAD
+/build/
+/.DS_Store
+=======
 /.DS_Store
 /build/
 /.settings/
 /.metadata/
+>>>>>>> f411eb918ea005aa707fce5c30262b77bbe78ba7

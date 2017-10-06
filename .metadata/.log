@@ -745,6 +745,7 @@ java.lang.IllegalArgumentException: Version 8.0 of project facet jst.appclient d
 	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
 =======
 >>>>>>> cfb37667fe07fa1228fa3e642d1181686aaceb57
+<<<<<<< HEAD
 !SESSION 2017-10-06 18:09:37.258 -----------------------------------------------
 eclipse.buildId=4.7.1.M20170906-1700
 java.version=1.8.0_101
@@ -1570,3 +1571,5 @@ org.eclipse.core.internal.resources.ResourceException: Project 'Website' is not 
 !MESSAGE The project description file (.project) for 'RemoteSystemsTempFiles' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
 !SUBENTRY 1 org.eclipse.core.resources 2 234 2017-10-06 20:45:02.100
 !MESSAGE The project description file (.project) for 'Servers' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+=======
+>>>>>>> bf6fef3766a0e0079c8f282f09a8caf0fcb88022

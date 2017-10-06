@@ -1574,6 +1574,13 @@ org.eclipse.core.internal.resources.ResourceException: Project 'Website' is not 
 =======
 >>>>>>> bf6fef3766a0e0079c8f282f09a8caf0fcb88022
 
+<<<<<<< HEAD
+!ENTRY org.eclipse.jface.text 2 0 2017-10-06 22:12:32.981
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-10-06 22:12:32.982
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+=======
 !ENTRY org.eclipse.egit.ui 4 0 2017-10-06 22:15:43.973
 !MESSAGE Failed to refresh projects from index changes
 !STACK 1
@@ -1721,3 +1728,4 @@ Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was
 	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:273)
 	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:161)
 	... 37 more
+>>>>>>> master

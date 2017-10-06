@@ -1,4 +1,11 @@
 INDEX VERSION 1.130+/Users/renemsorensen/eclipse-workspaces/Mermaid_Workspace/.metadata/.plugins/org.eclipse.jdt.core
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> f411eb918ea005aa707fce5c30262b77bbe78ba7
+>>>>>>> cf2447a18de9ca058c10e993d2c40e13f8eb8087
 995153890.index
 3227702110.index
 3157663476.index
@@ -12,6 +19,23 @@ INDEX VERSION 1.130+/Users/renemsorensen/eclipse-workspaces/Mermaid_Workspace/.m
 2518898317.index
 576073405.index
 2932191785.index
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+1931402068.index
+995153890.index
+3227702110.index
+3157663476.index
+527849843.index
+2531580537.index
+2518898317.index
+2932191785.index
+576073405.index
+>>>>>>> d7c59e01e2df7cf0a96ca93b3bfda3af1e3a4a4f
+>>>>>>> f411eb918ea005aa707fce5c30262b77bbe78ba7
+>>>>>>> cf2447a18de9ca058c10e993d2c40e13f8eb8087
 2979435446.index
 616739193.index
 2117113611.index
@@ -20,3 +44,23 @@ INDEX VERSION 1.130+/Users/renemsorensen/eclipse-workspaces/Mermaid_Workspace/.m
 624708564.index
 1638809023.index
 1044104405.index
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+3358580009.index
+624708564.index
+1638809023.index
+1044104405.index
+=======
+2763200912.index
+3358580009.index
+624708564.index
+204893112.index
+2149524062.index
+1638809023.index
+1044104405.index
+1271342938.index
+>>>>>>> d7c59e01e2df7cf0a96ca93b3bfda3af1e3a4a4f
+>>>>>>> f411eb918ea005aa707fce5c30262b77bbe78ba7
+>>>>>>> cf2447a18de9ca058c10e993d2c40e13f8eb8087
